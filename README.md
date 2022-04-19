@@ -13,8 +13,6 @@ This repository contains all the info regarding my real time strategy game proje
  * Step 1. Download the project zip folder.
  * Step 2. Extract the project files into a folder of your choice, I would typically reccomend creating a new desktop folder and extracting it there for ease of access.
  
- ## Activity FlowChart
- 
  ## Usage Instructions
  
  ## Gameplay Demo
