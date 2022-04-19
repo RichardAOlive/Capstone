@@ -3,7 +3,7 @@ This repository contains all the info regarding my real time strategy game proje
  
  ## Table of Contents
  * [Download and Installation Instructions](https://github.com/RichardAOlive/Capstone#download-and-installation-instructions)
- * [Modeling Information](https://github.com/RichardAOlive/Capstone#activity-flow-chart)
+ * [Modeling Information](https://github.com/RichardAOlive/Capstone/tree/main/Modeling)
  * [Usage Instructions](https://github.com/RichardAOlive/Capstone#usage-instructions)
  * [Gameplay Demo](https://github.com/RichardAOlive/Capstone#gameplay-demo)
  * [Additonal Credits](https://github.com/RichardAOlive/Capstone#additonal-credits)
