@@ -7,7 +7,7 @@ This repository contains all the info regarding my real time strategy game proje
  * [Usage Instructions](https://github.com/RichardAOlive/Capstone#usage-instructions)
  * [Gameplay Demo](https://github.com/RichardAOlive/Capstone#gameplay-demo)
  * [Additonal Credits](https://github.com/RichardAOlive/Capstone#additonal-credits)
- * [Licensing Information]
+ * [Licensing Information] (https://github.com/RichardAOlive/Capstone/blob/main/LICENSE)
  
  ## Download and Installation Instructions
  * Step 1. Download the project zip folder.
