@@ -11,7 +11,10 @@ This repository contains all the info regarding my real time strategy game proje
  
  ## Download and Installation Instructions
  * Step 1. Download the project zip folder.
- * Step 2. Extract the project files into a folder of your choice, I would typically reccomend creating a new desktop folder and extracting it there for ease of access.
+ * Step 2. Extract the project files into a folder of your choice.
+ * Step 3. Open the project in Unity Hub and when it asks if you would like to fix anything click "Ignore".
+ * Step 4. Once the project is open in unity go to the "Build Settings" and click "Build and Run". This will build the project into an executable file.
+ * Step 5. Run the Build executable to play the game.
  
  ## Usage Instructions
  
