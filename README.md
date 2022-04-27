@@ -25,3 +25,4 @@ This repository contains all the info regarding my real time strategy game proje
  * [Obsessive Games](https://www.youtube.com/channel/UCxZwx7ZYBUaXRqUPngBo3GA)
  * [Brackeys](https://www.youtube.com/c/Brackeys)
  * [TheScreamingFedora](https://www.youtube.com/c/TheScreamingFedora)
+ * [xOctoManx](https://www.youtube.com/channel/UCjDiDU1hXq31QIr0vN_yacQ)
