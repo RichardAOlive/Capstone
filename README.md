@@ -23,6 +23,7 @@ This repository contains all the info regarding my real time strategy game proje
  
  ## Gameplay Demo
  Gameplay as it looks so far.
+ 
 https://user-images.githubusercontent.com/54379466/165855683-31caabd1-1048-4c76-9fad-b4f2e61d485b.mp4
 
  ## Inline Code
