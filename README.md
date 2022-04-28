@@ -3,7 +3,7 @@ This repository contains all the info regarding my real time strategy game proje
  
  ## Table of Contents
  * [Download and Installation Instructions](https://github.com/RichardAOlive/Capstone#download-and-installation-instructions)
- * [Modeling Information](https://github.com/RichardAOlive/Capstone#activity-flow-chart)
+ * [Modeling Information](https://github.com/RichardAOlive/Capstone/tree/main/Modeling)
  * [Usage Instructions](https://github.com/RichardAOlive/Capstone#usage-instructions)
  * [Gameplay Demo](https://github.com/RichardAOlive/Capstone#gameplay-demo)
  * [Additonal Credits](https://github.com/RichardAOlive/Capstone#additonal-credits)
@@ -11,9 +11,10 @@ This repository contains all the info regarding my real time strategy game proje
  
  ## Download and Installation Instructions
  * Step 1. Download the project zip folder.
- * Step 2. Extract the project files into a folder of your choice, I would typically reccomend creating a new desktop folder and extracting it there for ease of access.
- 
- ## Activity FlowChart
+ * Step 2. Extract the project files into a folder of your choice.
+ * Step 3. Open the project in Unity Hub and when it asks if you would like to fix anything click "Ignore".
+ * Step 4. Once the project is open in unity go to the "Build Settings" and click "Build and Run". This will build the project into an executable file.
+ * Step 5. Run the Build executable to play the game.
  
  ## Usage Instructions
  
@@ -24,3 +25,4 @@ This repository contains all the info regarding my real time strategy game proje
  * [Obsessive Games](https://www.youtube.com/channel/UCxZwx7ZYBUaXRqUPngBo3GA)
  * [Brackeys](https://www.youtube.com/c/Brackeys)
  * [TheScreamingFedora](https://www.youtube.com/c/TheScreamingFedora)
+ * [xOctoManx](https://www.youtube.com/channel/UCjDiDU1hXq31QIr0vN_yacQ)
