@@ -25,34 +25,27 @@ This repository contains all the info regarding my real time strategy game proje
  
  ## Inline Code
  Example code for spawning units.
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.AI;
-using UnityEngine.EventSystems;
 
-public class Spawner : MonoBehaviour
-{
-    public GameObject Prefab;
-    
-    
+ public class Spawner : MonoBehaviour
+ {
+     public GameObject Prefab;
 
-    public void SpawnUnit()
-    {
-        Vector3 spawnpoint = transform.position;
-        Vector3 spawnoffset = spawnpoint + new Vector3(5f, 0, 0);
-        
-    
-        Instantiate(Prefab, spawnoffset, transform.rotation);
-    }
+     public void SpawnUnit()
+     {
+         Vector3 spawnpoint = transform.position;
+         Vector3 spawnoffset = spawnpoint + new Vector3(5f, 0, 0);
 
-    // Update is called once per frame
-    public void OnMouseDown()
-    {
 
-        SpawnUnit();
-    }
-}
+         Instantiate(Prefab, spawnoffset, transform.rotation);
+     }
+
+     // Update is called once per frame
+     public void OnMouseDown()
+     {
+
+         SpawnUnit();
+     }
+ }
  
  ## Additonal Credits
  While all of the work for the game has been done by myself below are links to various resources I found useful or informative whilst working on this project.
