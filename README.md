@@ -6,6 +6,7 @@ This repository contains all the info regarding my real time strategy game proje
  * [Modeling Information](https://github.com/RichardAOlive/Capstone/tree/main/Modeling)
  * [Usage Instructions](https://github.com/RichardAOlive/Capstone#usage-instructions)
  * [Gameplay Demo](https://github.com/RichardAOlive/Capstone#gameplay-demo)
+ * [Inline Code](https://github.com/RichardAOlive/Capstone#inline-code)
  * [Additonal Credits](https://github.com/RichardAOlive/Capstone#additonal-credits)
  * [Licensing Information](https://github.com/RichardAOlive/Capstone/blob/main/LICENSE)
  
@@ -14,11 +15,44 @@ This repository contains all the info regarding my real time strategy game proje
  * Step 2. Extract the project files into a folder of your choice.
  * Step 3. Open the project in Unity Hub and when it asks if you would like to fix anything click "Ignore".
  * Step 4. Once the project is open in unity go to the "Build Settings" and click "Build and Run". This will build the project into an executable file.
- * Step 5. Run the Build executable to play the game.
+ * Step 5. Play the game. In the future if you with to all that needs to be done is run the Build executable to play the game from that current build. These steps need to be reapeated if and upadtes or changes are made to the latest build of the game.
  
  ## Usage Instructions
+ ###Gameplay screen
+ Currently the only screen implemented. Contains all the primary gameplay elements and is where the bulk of the code has taken place. The game can be played entirely with the mouse, though optionally the wasd keys can be used to move the camera around the screen.
  
  ## Gameplay Demo
+ 
+ ##Inline Code
+ Example code for spawning units.
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+using UnityEngine.EventSystems;
+
+public class Spawner : MonoBehaviour
+{
+    public GameObject Prefab;
+    
+    
+
+    public void SpawnUnit()
+    {
+        Vector3 spawnpoint = transform.position;
+        Vector3 spawnoffset = spawnpoint + new Vector3(5f, 0, 0);
+        
+    
+        Instantiate(Prefab, spawnoffset, transform.rotation);
+    }
+
+    // Update is called once per frame
+    public void OnMouseDown()
+    {
+
+        SpawnUnit();
+    }
+}
  
  ## Additonal Credits
  While all of the work for the game has been done by myself below are links to various resources I found useful or informative whilst working on this project.
