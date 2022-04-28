@@ -26,10 +26,6 @@ This repository contains all the info regarding my real time strategy game proje
  ## Inline Code
  Example code for spawning units.
 
- public class Spawner : MonoBehaviour
- {
-     public GameObject Prefab;
-
      public void SpawnUnit()
      {
          Vector3 spawnpoint = transform.position;
@@ -45,7 +41,7 @@ This repository contains all the info regarding my real time strategy game proje
 
          SpawnUnit();
      }
- }
+ 
  
  ## Additonal Credits
  While all of the work for the game has been done by myself below are links to various resources I found useful or informative whilst working on this project.
