@@ -22,6 +22,7 @@ This repository contains all the info regarding my real time strategy game proje
  Currently the only screen implemented. Contains all the primary gameplay elements and is where the bulk of the code has taken place. The game can be played entirely with the mouse, though optionally the wasd keys can be used to move the camera around the screen.
  
  ## Gameplay Demo
+ Gameplay as it looks so far.
 https://user-images.githubusercontent.com/54379466/165855683-31caabd1-1048-4c76-9fad-b4f2e61d485b.mp4
 
  ## Inline Code
