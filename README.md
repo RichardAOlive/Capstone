@@ -18,12 +18,12 @@ This repository contains all the info regarding my real time strategy game proje
  * Step 5. Play the game. In the future if you with to all that needs to be done is run the Build executable to play the game from that current build. These steps need to be reapeated if and upadtes or changes are made to the latest build of the game.
  
  ## Usage Instructions
- ###Gameplay screen
+ ### Gameplay screen
  Currently the only screen implemented. Contains all the primary gameplay elements and is where the bulk of the code has taken place. The game can be played entirely with the mouse, though optionally the wasd keys can be used to move the camera around the screen.
  
  ## Gameplay Demo
  
- ##Inline Code
+ ## Inline Code
  Example code for spawning units.
 using System.Collections;
 using System.Collections.Generic;
